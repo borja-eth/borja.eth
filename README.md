@@ -2,11 +2,9 @@
 
 Check out how we're liberating Latin America @ [Lemon](https://lemon.me). We shall not stop until every single citizen in our region has had access to crypto.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### About Me
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I'm a 24 year old entrepreneur, that met #Bitcoin at the age of 14, back in 2011.
 
 ```markdown
 Syntax highlighted code block
