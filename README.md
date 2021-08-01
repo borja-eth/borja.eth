@@ -1,3 +1,5 @@
+<img src="https://uploads-ssl.webflow.com/605e088594c989787fa5fc1c/607367eb70dd181ba6e054d7_Lemon.svg">
+
 ## Fighting for Freedom
 
 Check out how we're liberating Latin America @ [Lemon](https://lemon.me). We shall not stop until every single citizen in our region has had access to crypto.
@@ -21,9 +23,9 @@ Fun Facts:
 
 `Don't let anybody tell you it's impossible.`
 
-![#BabyCryptoPunk](https://twitter.com/lemonborja/photo)
 ```
-
 ### Contact Me
 
-Shoot me an e-mail @ [borja@lemon.me].
+Shoot me an e-mail @ borja@lemon.me.
+<p align="center"> <img src="https://user-images.githubusercontent.com/61976759/127759116-dc7512d0-76b7-4fb3-8f2d-3ff49168245d.jpg">
+</p>
