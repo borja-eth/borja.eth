@@ -1,4 +1,4 @@
-<img src="https://uploads-ssl.webflow.com/605e088594c989787fa5fc1c/607367eb70dd181ba6e054d7_Lemon.svg">
+<img src="https://user-images.githubusercontent.com/61976759/127759515-7eb18086-b6a6-47be-b095-da1ec7e596f6.png">
 
 ## Fighting for Freedom
 
