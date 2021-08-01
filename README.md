@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Fighting for Freedom
 
-You can use the [editor on GitHub](https://github.com/borja-eth/borja.eth/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Check out how we're liberating Latin America @ [Lemon](https://lemon.me). We shall not stop until every single citizen in our region has had access to crypto.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
