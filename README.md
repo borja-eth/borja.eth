@@ -4,32 +4,27 @@ Check out how we're liberating Latin America @ [Lemon](https://lemon.me). We sha
 
 ### About Me
 
-I'm a 24 year old entrepreneur, that met #Bitcoin at the age of 14, back in 2011.
+I'm a 24 year old entrepreneur. I'm obsessed with changing people's life through crypto evangelization.
 
 ```markdown
-Syntax highlighted code block
+Fun Facts:
 
-# Header 1
+# Met #BTC when I was 14 years old. I mined #BTC at that age, and yes, I formatted many of those HDDs, I was a gamer and couldn't afford to buy new ones.
+# #BTC and #ETH fan, can't hold any other crypto (Although I love DeFi and Uniswap).
+# Recently got into NFTs and I'm a huge fan of them.
+# Couldn't afford to buy a Crypto Punk so the closest thing I could get was a Baby Crypto Punk.
+# Lemon almost dies, and after it, we took it to the big leagues.
+# Love to read, love to work.
+# Kitesurf, surf and snowboard when seeking for peace.
+# Raised in the countryside.
 ## Header 2
 ### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
 
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Contact Me
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/borja-eth/borja.eth/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Shoot me a mail @ [borja@lemon.me].
